@@ -34,8 +34,8 @@ Hero.propTypes = {
     dateFrom: PropTypes.instanceOf(dayjs),
     dateTo: PropTypes.instanceOf(dayjs),
     country: PropTypes.string,
-    price: PropTypes.number,
-    rooms: PropTypes.number,
+    price: PropTypes.string,
+    rooms: PropTypes.string,
   }),
 }
 

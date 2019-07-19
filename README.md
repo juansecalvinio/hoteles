@@ -1,6 +1,6 @@
 # React Boilerplate
 
-## Introduccioón
+## Introducción
 
 Este boilerplate esta generado con [create-react-app](https://github.com/facebook/create-react-app), además de [node-sass](https://github.com/sass/node-sass) para manejar archivos `.scss` para agregar [bulma](https://bulma.io/) y un conjunto de temas llamado [bulmaswatch](https://jenil.github.io/bulmaswatch)
 

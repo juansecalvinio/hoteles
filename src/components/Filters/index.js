@@ -90,8 +90,8 @@ Filters.propTypes = {
         dateFrom: PropTypes.instanceOf(dayjs),
         dateTo: PropTypes.instanceOf(dayjs),
         coutry: PropTypes.string,
-        price: PropTypes.number,
-        rooms: PropTypes.number
+        price: PropTypes.string,
+        rooms: PropTypes.string
     }),
     onFilterChange: PropTypes.func,
 }

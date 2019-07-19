@@ -59,10 +59,10 @@ Hotel.propTypes = {
         description: PropTypes.string,
         availabilityFrom: PropTypes.number,
         availabilityTo: PropTypes.number,
-        rooms: PropTypes.number,
+        rooms: PropTypes.string,
         city: PropTypes.string,
         country: PropTypes.string,
-        price: PropTypes.number
+        price: PropTypes.string
     })
 }
 
